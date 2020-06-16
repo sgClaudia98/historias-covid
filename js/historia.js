@@ -1,12 +1,11 @@
 $(document).ready(function () {
     const queryString = window.location.search;
-
     const urlParams = new URLSearchParams(queryString);
     const id = urlParams.get('id');
     let entrevista = "";
 
     $.each(entrevistas, function(index, value) {
-        if(value.id === id){
+        if(value.id == id){
             entrevista = value;
             return false;
         }
@@ -14,12 +13,24 @@ $(document).ready(function () {
 
     console.log(entrevista.nombre);
 
+    if (entrevista.nombre === undefined){
+        $('#super-container').html(
+            '<div class="jumbotron">' +
+            '  <h1 class="display-4"> Ha ocurrido un error!</h1>' +
+            '  <p class="lead">Lo sentimos, intentelo más tarde.</p>' +
+            '  <hr class="my-4">' +
+            '  <a class="btn btn-info bg-yellow" href="index.html" role="button">Volver a la Página principal</a>' +
+            '</div>'
+        )
+    }
+
     $('#nombre-bread').html(entrevista.nombre);
     let pic = entrevista.pic;
     $('#pic').attr("src","img/"+pic);
     $('#nombre').html(entrevista.nombre);
     $('#centro').html(entrevista.centro);
     $('#anyo').html(entrevista.anyo);
+    $('#facultad').html(entrevista.facultad);
 
     let respuestas = entrevista.respuestas;
     let contenedorResp = $('#preg-resp').html("");
@@ -32,11 +43,3 @@ $(document).ready(function () {
         );
     });
 });
-
-function getEntrevista(id){
-    $.each(entrevistas, function(index, value) {
-        if(value.id === id){
-            return value;
-        }
-    });
-}
