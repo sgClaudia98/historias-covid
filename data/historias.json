@@ -1,0 +1,81 @@
+{
+  "preguntas": [
+    {
+      "id": 0,
+      "activo": true,
+      "texto": "¿Por qué te incorporaste como voluntario?"
+    },
+    {
+      "id": 1,
+      "activo": true,
+      "texto": "¿Qué sucedió luego de confirmarte que ibas al Hospital?",
+
+    },
+    {
+      "id": 2,
+      "activo": true,
+      "texto": "¿Qué dijeron tus padres?"
+    },
+    {
+      "id": 3,
+      "activo": true,
+      "texto": "Llegaste al lugar... cuéntanos tu primer día"
+    },
+    {
+      "id": 4,
+      "activo": true,
+      "texto": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?"
+    },
+    {
+      "id": 5,
+      "activo": true,
+      "texto": "¿Qué fué lo más difícil que tuviste que enfrentar?"
+    },
+    {
+      "id": 6,
+      "activo": true,
+      "texto": "¿Cómo se apoyaban entre los voluntarios?"
+    },
+    {
+      "id": 7,
+      "activo": true,
+      "texto": "¿Cuál era tu último pensamiento cada noche?"
+    },
+    {
+      "id": 8,
+      "activo": true,
+      "texto": "¿Guardas alguna anécdota que marcará tu paso como voluntario?"
+    },
+    {
+      "id": 9,
+      "activo": true,
+      "texto": "¿Volverías a incorporarte?"
+    },
+    {
+      "id": 10,
+      "activo": true,
+      "texto": "¿Que dirías a tus familiares y amigos sobre tu misión?"
+    },
+    {
+      "id": 11,
+      "activo": true,
+      "texto": "Resume con una palabra esos 14 días"
+    },
+    {
+      "id": 12,
+      "activo": true,
+      "texto": "¿Desde tu especialidad como crees que puedes aportar al buen funcionamiento del hospital?"
+    },
+    {
+      "id": 13,
+      "activo": true,
+      "texto": "¿Qué piensas hacer ahora que ya cumpliste la misión y el aislamiento?"
+    }
+  ],
+  "respuestas": [
+    {
+
+    }
+  ]
+}
+
