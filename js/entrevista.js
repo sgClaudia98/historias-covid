@@ -19,7 +19,7 @@ $(document).ready(function () {
         '<div class="form-group col-md-6 pr-data">'+
         '     <label for="pr-'+index+'" class="font-weight-bold">'+
         (index+1)+'. <span class="pregunta">'+value+'</span></label>'+
-        '     <textarea class="form-control respuesta" type="text" id="pr-'+index+'" rows="1">Aetos</textarea>'+
+        '     <textarea class="form-control respuesta" type="text" id="pr-'+index+'" rows="1"></textarea>'+
         '</div>'
         )
     });
