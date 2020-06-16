@@ -25,7 +25,7 @@ $(document).ready(function () {
     let contenedorResp = $('#preg-resp').html("");
     $.each(respuestas, function (index, value) {
         contenedorResp.append(
-            '<div class="preg-resp col-6">' +
+            '<div class="preg-resp col-sm-6 col-12">' +
             '<h5 class="pregunta font-weight-bold"> '+(index+1)+'. '+value.pregunta+'</h5>' +
             '<p class="pl-2 respuesta"> '+value.respuesta+'</p>' +
             '</div>'
