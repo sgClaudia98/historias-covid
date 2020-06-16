@@ -6,7 +6,7 @@ $(document).ready(function () {
     let entrevista = "";
 
     $.each(entrevistas, function(index, value) {
-        if(value.id == id){
+        if(value.id === id){
             entrevista = value;
             return false;
         }
