@@ -1,5 +1,6 @@
 $(document).ready(function () {
-    const queryString = window.location.search;
+    const loc = window.location;
+    const queryString = loc.search;
     const urlParams = new URLSearchParams(queryString);
     const id = urlParams.get('id');
     let entrevista = "";
@@ -42,4 +43,21 @@ $(document).ready(function () {
             '</div>'
         );
     });
+
+    //Share Btns
+    let loc_encoded = encodeURIComponent(loc);
+    let text_encoded = encodeURIComponent("Conoce la historia de "+entrevista.nombre+
+        ", estudiante de "+entrevista.facultad+" en la CUJAE, aportando a la lucha contra la covid-19.");
+    let hashtag = "AlmaCujae,CorazonInformatica,Valiente,AccionesQueEngrandecen,VamosPorMas";
+
+    let whatsapp = encodeURIComponent(text_encoded+'\n'+loc);
+
+    let fb_href = 'http://www.facebook.com/sharer.php?u='+loc_encoded;
+    let ws_href = 'whatsapp://send?text=' + whatsapp;
+    let tw_href = 'http://twitter.com/intent/tweet?url='+loc_encoded+'&text='+text_encoded+'&hashtag='+hashtag;
+
+    $('#share-fb').attr('href',fb_href);
+    $('#share-ws').attr('href',ws_href);
+    $('#share-tw').attr('href',tw_href);
+
 });

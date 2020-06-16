@@ -3,7 +3,7 @@ const entrevistas = [
         "id": 2,
         "pic": "miguel.jpg",
         "nombre": "Miguel Enrique de Armas Linares",
-        "anyo": "5to",
+        "anyo": "5to año",
         "facultad": "Ing. Informática",
         "centro": "Hospital Salvador Allende",
         "respuestas": [
@@ -69,7 +69,7 @@ const entrevistas = [
         "id": 3,
         "pic": "legna.jpg",
         "nombre": "Legna Aguilera Iglesias",
-        "anyo": "3ero",
+        "anyo": "3er año",
         "facultad": "Ing. Informática",
         "centro": "Hospital Salvador Allende",
         "respuestas": [
@@ -135,7 +135,7 @@ const entrevistas = [
         "id": 4,
         "pic": 'ary.jpg',
         "nombre": "Ariadna Claudia Moreno Román",
-        "anyo": "4to",
+        "anyo": "4to año",
         "facultad": "Ing. Informatica",
         "centro": "Hospital Salvador Allende",
         "respuestas": [
@@ -208,7 +208,7 @@ const entrevistas = [
         "id": 5,
         "pic": "diansy.jpg",
         "nombre": "Diansy Rodríguez Hong",
-        "anyo": "4to",
+        "anyo": "4to año",
         "facultad": "Ing. Informática",
         "centro": "Hospital Salvador Allende",
         "respuestas": [

@@ -19,6 +19,9 @@ img.pic {
     width: 100%;
     height: auto;
 }
+#pic-cont{
+    max-width: 280px;
+}
 .bg-yellow {
     background-color: #ffc107;
 }
@@ -82,4 +85,21 @@ a.bg-yellow{
 a.bg-yellow:hover{
     background-color: #4e555b;
     color: white;
+}
+
+.fa-yellow{
+    color: black;
+}
+
+.fa-yellow:hover{
+    color:  #ffc107;
+    border-color: #ffc107;
+}
+
+.share-icons>a{
+    padding: 2px 7px;
+}
+
+i.fa-yellow{
+    min-width: 20px;
 }
