@@ -13,7 +13,7 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Qué sucedió luego de confirmarte que ibas al Hospital?",
-                "respuesta": "Luego de conformarme que era en ese hospital llame a mi familia para pedirle su opinión al respecto."
+                "respuesta": "Luego de confirmarme que era en ese hospital llamé a mi familia para pedirle su opinión al respecto."
             },
             {
                 "pregunta": "¿Qué dijeron tus padres?",
@@ -25,11 +25,11 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
-                "respuesta": "Tuve un poco de miedo por el riesgo que corría pero nunca pense en abandonar."
+                "respuesta": "Tuve un poco de miedo por el riesgo que corría pero nunca pensé en abandonar."
             },
             {
                 "pregunta": "¿Qué fué lo más difícil que tuviste que enfrentar?",
-                "respuesta": "Lo más difícil fue ver carros fúnebres llevándose personas muertas por covid 19."
+                "respuesta": "Lo más difícil fue ver carros fúnebres llevándose fallecidos por covid-19."
             },
             {
                 "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
@@ -37,11 +37,11 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Cuál era tu último pensamiento cada noche?",
-                "respuesta": "Siendo sincero por la noche pensaba en el riesgo que estaba corriendo y deseaba que se me hiciera pronto la prueba para estar más tranquilo."
+                "respuesta": "Siendo sincero, por la noche pensaba en el riesgo que estaba corriendo y deseaba que se me hiciera pronto la prueba para estar más tranquilo."
             },
             {
                 "pregunta": "¿Guardas alguna anécdota que marcará tu paso como voluntario?",
-                "respuesta": "Ninguna en especial, todos los días tenían algo interesante me quedo con lo satisfechas que estaban los trabajadores con nuestro trabajo."
+                "respuesta": "Ninguna en especial, todos los días tenían algo interesante me quedo con lo satisfechos que estaban los trabajadores con nuestro trabajo."
             },
             {
                 "pregunta": "¿Volverías a incorporarte?",
@@ -49,19 +49,19 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Que dirías a tus familiares y amigos sobre tu misión?",
-                "respuesta": "Les diría que es una decisión fuerte pero al final gratifica saber que estas haciendo lo correcto."
+                "respuesta": "Les diría que es una decisión fuerte pero al final gratifica saber que estás haciendo lo correcto."
             },
             {
                 "pregunta": "Resume con una palabra esos 14 días",
                 "respuesta": "Humanismo"
             },
             {
-                "pregunta": "¿Desde tu especialidad como crees que puedes aportar al buen funcionamiento del hospital?",
+                "pregunta": "¿Desde tu especialidad cómo crees que puedes aportar al buen funcionamiento del hospital?",
                 "respuesta": "Creo que se pudieran automatizar procesos relacionados con gestión de inventarios."
             },
             {
                 "pregunta": "¿Qué piensas hacer ahora que ya cumpliste la misión y el aislamiento?",
-                "respuesta": "En mi caso particular terminar el informe de tesis y ayudar en mi casa en lo que haga falta."
+                "respuesta": "En mi caso particular, terminar el informe de tesis y ayudar en mi casa en lo que haga falta."
             }
         ]
     },
@@ -87,7 +87,7 @@ const entrevistas = [
             },
             {
                 "pregunta": "Llegaste al lugar... cuéntanos tu primer día",
-                "respuesta": "El primer día fue el más difícil ya que me estaba enfrentando a cosas nuevas y tenía que adaptarme. Nos asignaron las salas y los puestos que ocuparíamos y nos explicaron las tareas que nos tocaba desempeñar. A mi me tocó ser la pantrista de la sala Manuel Valle junto con 3 estudiantes más de la CUJAE que serían asistentes de limpieza (2) y asistente de enfermería (1). Ese día fue el más largo, terminé a las 8:30pm después de servir todas las comidas, fregar las bandejas y los termos. Y luego el regreso a la residencia para descansar después de un largo día de trabajo."
+                "respuesta": "El primer día fue el más difícil ya que me estaba enfrentando a cosas nuevas y tenía que adaptarme. Nos asignaron las salas y los puestos que ocuparíamos y nos explicaron las tareas que nos tocaba desempeñar. A mi me tocó ser la pantrista de la sala Manuel Valle junto con 3 estudiantes más de la CUJAE que serían asistentes de limpieza (2) y asistente de enfermería (1). Ese día fue el más largo, terminé a las 8:30pm después de servir todas las comidas, fregar las bandejas y los termos. Y luego, el regreso a la residencia para descansar después de un largo día de trabajo."
             },
             {
                 "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
@@ -122,7 +122,7 @@ const entrevistas = [
                 "respuesta": "SACRIFICIO"
             },
             {
-                "pregunta": "¿Desde tu especialidad como crees que puedes aportar al buen funcionamiento del hospital?",
+                "pregunta": "¿Desde tu especialidad cómo crees que puedes aportar al buen funcionamiento del hospital?",
                 "respuesta": "Sería bueno la automatización de todos los procesos que se llevan acabo en el hospital, tanto dentro como fuera de las salas."
             },
             {
@@ -141,11 +141,11 @@ const entrevistas = [
         "respuestas": [
             {
             "pregunta": "¿Por qué te incorporaste como voluntario?",
-            "respuesta": "Me incorporé porque necesitaba sentirme útil, estar en un lugar donde sintiera que realmente estaba luchando contra la pandemia, y la universidad llamó y no hizo falta pensarlo dos veces."
+            "respuesta": "Me incorporé porque necesitaba sentirme útil, estar en un lugar donde sintiera que realmente estaba luchando contra la pandemia. La Universidad llamó y no hizo falta pensarlo dos veces."
             },
             {
             "pregunta": "¿Qué sucedió luego de confirmarte que ibas al Hospital?",
-            "respuesta": "Luego de saber que íbamos para allá nada... recoger las cosas y prepararme psicológicamente para ir para un lugar lleno de personas que podían estar infectadas, dónde había que cuidarse al máximo... y lo más duro antes de entrar fue el PCR, esperar ese resultado es una tensión tan fuerte que no se explicar... y si después de alistarme estoy contagiada y no puedo ayudar? Pero todo salió bien."
+            "respuesta": "Luego de saber que íbamos para allá nada... recoger las cosas y prepararme psicológicamente para ir para un lugar lleno de personas que podían estar infectadas, dónde había que cuidarse al máximo... y lo más duro antes de entrar fue el PCR, esperar ese resultado es una tensión tan fuerte que no sé explicar... y si después de alistarme estoy contagiada y no puedo ayudar? Pero todo salió bien."
             },
             {
             "pregunta": "¿Qué dijeron tus padres?",
@@ -153,7 +153,7 @@ const entrevistas = [
             },
             {
             "pregunta": "Llegaste al lugar... cuéntanos tu primer día",
-            "respuesta": "El primer día... fue bueno, nos ubicamos en cuartos y salas y nos dijeron lo que íbamos a hacer... me tocaba ser asistente de enfermería, yo, que de enfermería no tenía ni idea... según me ex plicaron tenía que ayudar a alimentar y bañarse a pacientes inmovilizados, ayudar a repartir medicamento, sacar la ropa de la sala, y ayudar con el típico papeleo de una sala médica... ese día solo había 3 pacientes, lo duró llegó después."
+            "respuesta": "El primer día... fue bueno, nos ubicamos en cuartos y salas y nos dijeron lo que íbamos a hacer... me tocaba ser asistente de enfermería, yo, que de enfermería no tenía ni idea... según me explicaron tenía que ayudar a alimentar y bañarse a pacientes inmovilizados, ayudar a repartir medicamentos, sacar la ropa de la sala, y ayudar con el típico papeleo de una sala médica... ese día solo habían 3 pacientes, lo duro llegó después."
             },
             {
             "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
@@ -165,7 +165,7 @@ const entrevistas = [
             },
             {
             "pregunta": "¿Qué fué lo más difícil que tuviste que enfrentar?",
-            "respuesta": "Lo más difícil que enfrenté fue el trato con pacientes inmovilizados... yo no le había dado la comida ni a un bebé, y estaba allí alimentando a señoras que a penas se movían, que cada vez que pasaba por al lado de su cuarto entraba para ver si aún respiraban, y me aterraba que les pudiera pasar algo."
+            "respuesta": "Lo más difícil que enfrenté fue el trato con pacientes inmovilizados... yo no le había dado la comida ni a un bebé, y estaba allí alimentando a señoras que apenas se movían, que cada vez que pasaba por al lado de su cuarto entraba para ver si aún respiraban, y me aterraba que les pudiera pasar algo."
             },
             {
             "pregunta": "¿Cuál era tu último pensamiento cada noche?",
@@ -188,19 +188,18 @@ const entrevistas = [
             "respuesta": "Altruismo"
             },
             {
-            "pregunta":  "¿Desde tu especialidad como crees que puedes aportar al buen funcionamiento del hospital?",
+            "pregunta":  "¿Desde tu especialidad cómo crees que puedes aportar al buen funcionamiento del hospital?",
             "respuesta": "Lo primero que haría falta sería al menos (si se pudieran más, pues mejor) una PC por sala, y algún lugar ya sea en la dirección del hospital o en algún otro sitio que destinen para eso una oficina para que sirva de centro de datos y tenga los servidores, trabajen los administradores del sistema... es decir, un nodo Central.\n"+
             "Procesos a automatizar:\n"+
-            "• Recepción de los pacientes (en el hospital y luego en las salas), esto luego de que los pacientes estén de alta debe persistir para tener un histórico de todas las personas que ingresaron alguna vez allí para cualquier estudio que se haga o si hace falta localizar a alguien... eso siempre es necesario\n• Evoluciones médicas y de enfermería (son actualizaciones del estado del paciente que se hacen cada 12 horas por médicos y enfermeros de manera independiente)... si se crea un perfil por cada paciente que ingresa está información se puede escribir ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones de cada día.\n"+
-            "• Evoluciones médicas y de enfermería (son actualizaciones del estado del paciente que se hacen cada 12 horas por médicos y enfermeros de manera independiente)... si se crea un perfil por cada paciente que ingresa está información se puede escribir ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones de cada día.\n"+
-            "• Hay muchos pacientes casos sociales que llegan sin dirección, sin carnet de identidad, etc... debería existir alguna manera de obtener esos datos del minint, que son los que cuentan con la información de todas las personas dentro del país, al menos datos esenciales durante su estadía allí y bajo confidencialidad claro está.\n"+
-            "• Contrareferencias y remisiones médicas... es la misma historia, escribirlo sobre el perfil de cada paciente y cuando se vaya imprimirlo, en caso de que vaya para otro hospital es demasiada responsabilidad darle un documento tan sensible al propio paciente para que lo lleve y lo entregue él mismo (así es como yo ví que lo hacían), si un sistema se monta en todos los hospitales eso se puede mandar por una vía más segura (nosotros vivimos como una señora que se fue remitida para otro hospital al día siguiente no aparecía).\n"+
-            "• Estado de pacientes (es una hoja con las camas de ocupa cada paciente en la sala en tiempo real) como los pacientes van y vienen con tanta rapidez esto hay que escribirlo todos los días, totalmente innecesario.\n"+
+            "• Recepción de los pacientes (en el hospital y las salas), al darse de alta debe premanecer un histórico para cualquier estudio \n" +
+            "• Evoluciones médicas y de enfermería (actualizaciones del estado del paciente, cada 12 horas por médicos y enfermeros de manera independiente) al tener la información del paciente se puede añadir esta ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones diarias.\n"+
+            "• Contrareferencias y remisiones médicas, escribirlo sobre el perfil de cada paciente y cuando se vaya imprimirlo, en caso de que se traslade a otro hospital, si un sistema se monta en todos los hospitales eso se puede mandar por una vía más segura.\n"+
+            "• Estado de pacientes (las camas de ocupa cada paciente en la sala en una hoja) por la dinámica del hospital hay que escribirlo todos los días, es innecesario.\n"+
             "• Y las indicaciones médicas son los medicamentos que debe tomar cada paciente cada día, que también se escriben todos los días en una hojita y siempre son las mismas... innecesario también.\n"
             },
             {
             "pregunta": "¿Qué piensas hacer ahora que ya cumpliste la misión y el aislamiento?",
-            "respuesta": "Luego de haber salido del hospital y del aislamiento sigo en el SAF llevando comida a los viejitos, y esperando a cualquier otra tarea que haya que hacer, ir a trabajar al campo, volver a entrar al hospital, lo que sea por ayudar."
+            "respuesta": "Luego de haber salido del hospital y del aislamiento sigo en el SAF llevando comida a las personas de la tercera edad, y esperando a cualquier otra tarea que haya que hacer, ir a trabajar al campo, volver a entrar al hospital, lo que sea por ayudar."
             }
         ]
     },
@@ -222,11 +221,11 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
-                "respuesta": "¿Miedo? Sí, creo que en algún momento lo sentí, pienso que es normal estábamos en el primer frente de combate ante un enemigo que ni siquiera veíamos pero rendirse nunca fue una opción, nosotros fuimos para lograr una meta sabiendo a que nos enfrentábamos y siempre estuvimos seguros que íbamos a salir de ahí con la cabeza en alto y con la misión cumplida a cabalidad."
+                "respuesta": "¿Miedo? Sí, creo que en algún momento lo sentí, pienso que es normal estábamos en el primer frente de combate ante un enemigo que ni siquiera veíamos pero rendirse nunca fue una opción, nosotros fuimos para lograr una meta sabiendo a qué nos enfrentábamos y siempre estuvimos seguros que íbamos a salir de ahí con la cabeza en alto y con la misión cumplida a cabalidad."
             },
             {
                 "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
-                "respuesta": "Los voluntarios entramos como totales desconocidos, recuerdo las caras de muchos el primer día, no hablábamos y mirábamos todo con asombro. Los primeros días siempre son los más difíciles porque la adaptación a un entorno nuevo y totalmente desconocido no siempre es igual para todos, pero luego que se acababa el día de trabajo que llegábamos a la residencia era diferente llegamos a depender los unos de los otros, gracias a los chistes y los cuentos, los días más cargados de trabajo y de emociones se convirtieron en los mejores.\nEl trabajo en la sala era fuerte dependiendo del trabajo que te tocara, en mi caso, por suerte, la ayuda entre nosotros no era necesaria pedirla, a mí me tocaba limpiar y en cuanto terminaba con esta labor ayudaba a la pantrista, la cual mientras no tenía que servir comida o fregar nos ayudaba a nosotros. Fue muy sencillo trabajar como un equipo porque en eso fue lo que nos convertimos en 14 días en una súper tropa que no importaba el trabajo que nos tocara éramos uno y se hacía el trabajo  que fuese necesario hacer.\n"
+                "respuesta": "Los voluntarios entramos como totales desconocidos, recuerdo las caras de muchos el primer día, sin hablar y mirando todo con asombro. Los primeros días siempre son los más difíciles porque adaptarse a un entorno totalmente desconocido no es fácil para todos, pero luego que se acababa el día de trabajo y llegábamos a la residencia era diferente, llegamos a depender los unos de los otros; gracias a los chistes y los cuentos, los días más cargados de trabajo y de emociones se convirtieron en los mejores.\nEl trabajo en la sala era fuerte en dependencia del trabajo que te tocara, en mi caso, por suerte, nunca me falto la ayuda de un compañero, a mí me tocaba limpiar y en cuanto terminaba con esta labor ayudaba a la pantrista, quien ayudaba en la sala en los momentos que no tenía que servir comida o fregar. Fue muy sencillo trabajar como un equipo porque en eso nos convertimos en 14 días, en una súper tropa que no importaba el trabajo que nos tocara éramos uno y se hacía el trabajo que fuese necesario hacer.\n"
             },
             {
                 "pregunta": "¿Volverías a incorporarte?",
