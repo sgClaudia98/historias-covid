@@ -33,23 +33,23 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
-                "respuesta": "Hablábamos, compartíamos experiencias,teníamos y aún se mantiene un grupo de whatsapp y por ese medio nos comunicabamos."
+                "respuesta": "Hablábamos, compartíamos experiencias, teníamos y aún se mantiene un grupo de whatsapp y por ese medio nos comunicábamos."
             },
             {
                 "pregunta": "¿Cuál era tu último pensamiento cada noche?",
-                "respuesta": "Siendo sincero por la noche pensaba en el riesgo que estaba corriendo y deseaba q se me hiciera pronto la prueba para estar más tranquilo."
+                "respuesta": "Siendo sincero por la noche pensaba en el riesgo que estaba corriendo y deseaba que se me hiciera pronto la prueba para estar más tranquilo."
             },
             {
                 "pregunta": "¿Guardas alguna anécdota que marcará tu paso como voluntario?",
-                "respuesta": "Ninguna en especial,todos los días tenían algo interesante me quedo con lo satisfechas que estaban los trabajadores con nuestro trabajo."
+                "respuesta": "Ninguna en especial, todos los días tenían algo interesante me quedo con lo satisfechas que estaban los trabajadores con nuestro trabajo."
             },
             {
                 "pregunta": "¿Volverías a incorporarte?",
-                "respuesta": "Creo que lo volvería a hacer,sólo q por el momento deseo descansar y apoyar también a mi familia que falta les hace."
+                "respuesta": "Creo que lo volvería a hacer, sólo que por el momento deseo descansar y apoyar también a mi familia que falta les hace."
             },
             {
                 "pregunta": "¿Que dirías a tus familiares y amigos sobre tu misión?",
-                "respuesta": "Les diría q es una decisión fuerte pero al final gratifica saber que estas haciendo lo correcto."
+                "respuesta": "Les diría que es una decisión fuerte pero al final gratifica saber que estas haciendo lo correcto."
             },
             {
                 "pregunta": "Resume con una palabra esos 14 días",
@@ -141,27 +141,27 @@ const entrevistas = [
         "respuestas": [
             {
             "pregunta": "¿Por qué te incorporaste como voluntario?",
-            "respuesta": "Me incorporé pq necesitaba sentirme útil, estar en un lugar donde sintiera que realmente estaba luchando contra la pandemia, y la universidad llamó y no hizo falta pensarlo dos veces"
+            "respuesta": "Me incorporé porque necesitaba sentirme útil, estar en un lugar donde sintiera que realmente estaba luchando contra la pandemia, y la universidad llamó y no hizo falta pensarlo dos veces"
             },
             {
             "pregunta": "¿Qué sucedió luego de confirmarte que ibas al Hospital?",
-            "respuesta": "Luego de saber que íbamos para allá nada...recoger las cosas y prepararme psicólogicamente para ir para un lugar lleno de personas que podían estar infectadas, dónde había q cuidarse al máximo...y lo más duro antes de entrar fue el PCR, esperar ese resultado es una tensión tan fuerte que no se explicar...y si despues de alistarme estoy contagiada y no puedo ayudar? Pero todo salió bien"
+            "respuesta": "Luego de saber que íbamos para allá nada...recoger las cosas y prepararme psicológicamente para ir para un lugar lleno de personas que podían estar infectadas, dónde había que cuidarse al máximo...y lo más duro antes de entrar fue el PCR, esperar ese resultado es una tensión tan fuerte que no se explicar...y si después de alistarme estoy contagiada y no puedo ayudar? Pero todo salió bien"
             },
             {
             "pregunta": "¿Qué dijeron tus padres?",
-            "respuesta": "Primero me dijeron que no me arriesgara tanto, que me quedara tranquila ayudando en el SAF. Pero después entendieron que era donde más hacia falta y que era donde tenía que estar, y me apoyaron a pesar de su preocupación."
+            "respuesta": "Primero me dijeron que no me arriesgara tanto, que me quedara tranquila ayudando en el SAF. Pero después entendieron que era donde más hacía falta y que era donde tenía que estar, y me apoyaron a pesar de su preocupación."
             },
             {
             "pregunta": "Llegaste al lugar... cuéntanos tu primer día",
-            "respuesta": "El primer día...fue bueno, nos ubicamos en cuartos y salas y nos dijeron lo q íbamos a hacer...me tocaba ser asistent de enfermería, yo, que de enfermería no tenía ni idea...según me 3xplicaron tenía q ayudar a alimentar y bañarse a pacientes inmovilizados, ayudar a repartir medicamento, sacar la ropa de la sala, y ayudar con el típico papeleo de una sala médica...ese día solo había 3 pacientes, lo duró llegó después jjj"
+            "respuesta": "El primer día...fue bueno, nos ubicamos en cuartos y salas y nos dijeron lo que íbamos a hacer...me tocaba ser asistente de enfermería, yo, que de enfermería no tenía ni idea...según me 3xplicaron tenía que ayudar a alimentar y bañarse a pacientes inmovilizados, ayudar a repartir medicamento, sacar la ropa de la sala, y ayudar con el típico papeleo de una sala médica...ese día solo había 3 pacientes, lo duró llegó después."
             },
             {
             "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
-            "respuesta": "Miedo sentí varias veces, es normal, cada vez que un paciente daba positivo me ponía a pensar en cuanto contacto había tenido con él, y aunque hubiese sido mínimo la preocupación era inmensa. Pero rendirme nunca pasó por mi cabeza, la sonrisa de los pacientes con cualquier ayuda q les dábamos era suficiente para seguir, fuimos con objetivo y no nos podíamos rajar"
+            "respuesta": "Miedo sentí varias veces, es normal, cada vez que un paciente daba positivo me ponía a pensar en cuanto contacto había tenido con él, y aunque hubiese sido mínimo la preocupación era inmensa. Pero rendirme nunca pasó por mi cabeza, la sonrisa de los pacientes con cualquier ayuda que les dábamos era suficiente para seguir, fuimos con objetivo y no nos podíamos rajar"
             },
             {
             "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
-            "respuesta": "Nosotros nos convertimos en familia. La ayuda venía desde el café de por la mañana q compartíamos a buchitos, el calentador que era solo uno para casi 20 personas y también lo compartíamos, hasta compartir las tareas en las salas para terminar temprano. En el aislamiento celebramos cumpleaños, secamos lágrimas, calmamos tensiones...ninguno de nosotros estuvo solo nunca"
+            "respuesta": "Nosotros nos convertimos en familia. La ayuda venía desde el café de por la mañana que compartíamos a buchitos, el calentador que era solo uno para casi 20 personas y también lo compartíamos, hasta compartir las tareas en las salas para terminar temprano. En el aislamiento celebramos cumpleaños, secamos lágrimas, calmamos tensiones...ninguno de nosotros estuvo solo nunca"
             },
             {
             "pregunta": "¿Qué fué lo más difícil que tuviste que enfrentar?",
@@ -173,11 +173,11 @@ const entrevistas = [
             },
             {
             "pregunta": "¿Guardas alguna anécdota que marcará tu paso como voluntario?",
-            "respuesta": "Una anécdota...pues tuvimos un paciente esquizofrénico y con retraso mental severo, que se pasaba el día entero tratando de fugarse, se daba golpes, etc...ese señor a mi me da daba un miedo que no puedo explicar, y tuve que darle la comida como dos días hasta q le dieron de alta...lo tenían amarrado a la cama para que no se fugara más...y yo rezaba cada minuto para que él terminara de comer rápido y poder salir de su cuarto porque me sentía remal."
+            "respuesta": "Una anécdota...pues tuvimos un paciente esquizofrénico y con retraso mental severo, que se pasaba el día entero tratando de fugarse, se daba golpes, etc...ese señor a mí me da daba un miedo que no puedo explicar, y tuve que darle la comida como dos días hasta que le dieron de alta...lo tenían amarrado a la cama para que no se fugara más...y yo rezaba cada minuto para que él terminara de comer rápido y poder salir de su cuarto porque me sentía remal."
             },
             {
             "pregunta": "¿Volverías a incorporarte?",
-            "respuesta": "Seguro q volvería a incorporarme, fue de las mejores experiencias que he vivido, la satisfacción de estar en el bando de los que combaten la enfermedad, ayudar a los pacientes, y además conocer personas maravillosas, volvería a hacerlo 1000 veces si es necesario"
+            "respuesta": "Seguro que volvería a incorporarme, fue de las mejores experiencias que he vivido, la satisfacción de estar en el bando de los que combaten la enfermedad, ayudar a los pacientes, y además conocer personas maravillosas, volvería a hacerlo 1000 veces si es necesario"
             },
             {
             "pregunta": "¿Que dirías a tus familiares y amigos sobre tu misión?",
@@ -191,12 +191,12 @@ const entrevistas = [
             "pregunta":  "¿Desde tu especialidad como crees que puedes aportar al buen funcionamiento del hospital?",
             "respuesta": "Lo primero que haría falta sería al menos (si se pudieran más, pues mejor) una PC por sala, y algún lugar ya sea en la dirección del hospital o en algún otro sitio que destinen para eso una oficina para que sirva de centro de datos y tenga los servidores, trabajen los administradores del sistema...es decir, un nodo Central.\n"+
             "Procesos a automatizar:\n"+
-            "• Recepción de los pacientes (en el hospital y luego en las salas), esto luego de q los pacientes estén de alta debe persistir para tener un histórico de todas las personas que ingresaron alguna vez allí para cualquier estudio q se haga o si hace falta localizar a alguien...eso siempre es necesario\n• Evoluciones médicas y de enfermería (son actualizaciones del estado del paciente que se hacen cada 12 horas por médicos y enfermeros de manera independiente)...si se crea un perfil por cada paciente que ingresa está información se puede escribir ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones de cada día\n"+
-            "• Evoluciones médicas y de enfermería (son actualizaciones del estado del paciente que se hacen cada 12 horas por médicos y enfermeros de manera independiente)...si se crea un perfil por cada paciente que ingresa está información se puede escribir ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones de cada día\n"+
-            "• Hay muchos pacientes casos sociales que llegan sin dirección, sin carnet de identidad, etc...debería existir alguna manera de obtener esos datos del minint, q son los q cuentan con la información de todas las personas dentro del país, al menos datos esenciales durante su estadía allí y bajo confidencialidad claro está\n"+
-            "• Contrareferencias y remisiones médicas...es la misma historia, escribirlo sobre el perfil de cada paciente y cuando se vaya imprimirlo, en caso de q vaya para otro hospital es demasiada responsabilidad darle un documento tan sensible al propio paciente para q lo lleve y lo entregue él mismo (así es como yo ví q lo hacían), si un sistema se monta en todos los hospitales eso se puede mandar por una vía más segura (nosotros vivimos como una señora q se fue remitida para otro hospital al dia siguiente no aparecía)\n"+
-            "• Estado de pacientes (es una hoja con las camas de ocupa cada paciente en la sala en tiempo real) como los pacientes van y vienen con tanta rapidez esto hay q escribirlo todos los días, totalmente innecesario\n"+
-            "• Y las indicaciones médicas son los medicamentos q debe tomar cada paciente cada día, q también se escriben todos los días en una hojita y siempre son las mismas... innecesario también\n"
+            "• Recepción de los pacientes (en el hospital y luego en las salas), esto luego de que los pacientes estén de alta debe persistir para tener un histórico de todas las personas que ingresaron alguna vez allí para cualquier estudio que se haga o si hace falta localizar a alguien... eso siempre es necesario\n• Evoluciones médicas y de enfermería (son actualizaciones del estado del paciente que se hacen cada 12 horas por médicos y enfermeros de manera independiente)... si se crea un perfil por cada paciente que ingresa está información se puede escribir ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones de cada día\n"+
+            "• Evoluciones médicas y de enfermería (son actualizaciones del estado del paciente que se hacen cada 12 horas por médicos y enfermeros de manera independiente)... si se crea un perfil por cada paciente que ingresa está información se puede escribir ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones de cada día\n"+
+            "• Hay muchos pacientes casos sociales que llegan sin dirección, sin carnet de identidad, etc... debería existir alguna manera de obtener esos datos del minint, que son los que cuentan con la información de todas las personas dentro del país, al menos datos esenciales durante su estadía allí y bajo confidencialidad claro está\n"+
+            "• Contrareferencias y remisiones médicas... es la misma historia, escribirlo sobre el perfil de cada paciente y cuando se vaya imprimirlo, en caso de que vaya para otro hospital es demasiada responsabilidad darle un documento tan sensible al propio paciente para que lo lleve y lo entregue él mismo (así es como yo ví que lo hacían), si un sistema se monta en todos los hospitales eso se puede mandar por una vía más segura (nosotros vivimos como una señora que se fue remitida para otro hospital al día siguiente no aparecía)\n"+
+            "• Estado de pacientes (es una hoja con las camas de ocupa cada paciente en la sala en tiempo real) como los pacientes van y vienen con tanta rapidez esto hay que escribirlo todos los días, totalmente innecesario\n"+
+            "• Y las indicaciones médicas son los medicamentos que debe tomar cada paciente cada día, que también se escriben todos los días en una hojita y siempre son las mismas... innecesario también\n"
             },
             {
             "pregunta": "¿Qué piensas hacer ahora que ya cumpliste la misión y el aislamiento?",
@@ -226,7 +226,7 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
-                "respuesta": "Los voluntarios entramos como totales desconocidos, recuerdo las caras de muchos el primer día, no hablábamos y mirábamos todo con asombro. Los primeros días siempre son los más difíciles porque la adaptación a un entorno nuevo y totalmente desconocido no siempre es igual para todos, pero luego que se acababa el día de trabajo que llegábamos a la residencia era diferente llegamos a depender los unos de los otros, gracias a los chiste y los cuentos, los días más cargados de trabajo y de emociones se convirtieron en los mejores.\nEl trabajo en la sala era fuerte dependiendo del trabajo que te tocara, en mi caso, por suerte, la ayuda entre nosotros no era necesaria pedirla, a mi me tocaba limpiar y en cuanto terminaba con esta labor ayudaba a la pantrista, la cual mientras no tenia que servir comida o fregar nos ayudaba a nosotros. Fue muy sencillo trabajar como un equipo porque en eso fue lo que nos convertimos en 14 días en una súper tropa que no importaba el trabajo que nos tocara éramos uno y se hacía el trabajo  que fuese necesario hacer.\n"
+                "respuesta": "Los voluntarios entramos como totales desconocidos, recuerdo las caras de muchos el primer día, no hablábamos y mirábamos todo con asombro. Los primeros días siempre son los más difíciles porque la adaptación a un entorno nuevo y totalmente desconocido no siempre es igual para todos, pero luego que se acababa el día de trabajo que llegábamos a la residencia era diferente llegamos a depender los unos de los otros, gracias a los chiste y los cuentos, los días más cargados de trabajo y de emociones se convirtieron en los mejores.\nEl trabajo en la sala era fuerte dependiendo del trabajo que te tocara, en mi caso, por suerte, la ayuda entre nosotros no era necesaria pedirla, a mí me tocaba limpiar y en cuanto terminaba con esta labor ayudaba a la pantrista, la cual mientras no tenía que servir comida o fregar nos ayudaba a nosotros. Fue muy sencillo trabajar como un equipo porque en eso fue lo que nos convertimos en 14 días en una súper tropa que no importaba el trabajo que nos tocara éramos uno y se hacía el trabajo  que fuese necesario hacer.\n"
             },
             {
                 "pregunta": "¿Volverías a incorporarte?",
