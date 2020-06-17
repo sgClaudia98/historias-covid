@@ -46,11 +46,12 @@ $(document).ready(function () {
 
     //Share Btns
     let loc_encoded = encodeURIComponent(loc);
-    let text_encoded = encodeURIComponent("Conoce la historia de "+entrevista.nombre+
-        ", estudiante de "+entrevista.facultad+" en la CUJAE, aportando a la lucha contra la covid-19.");
+    let text = "Conoce la historia de "+entrevista.nombre+
+        ", estudiante de "+entrevista.facultad+" en la CUJAE, aportando a la lucha contra la covid-19.";
+    let text_encoded = encodeURIComponent(text);
     let hashtag = "AlmaCujae,CorazonInformatica,Valiente,AccionesQueEngrandecen,VamosPorMas";
 
-    let whatsapp = encodeURIComponent(text_encoded+'\n'+loc);
+    let whatsapp = encodeURIComponent(text+'\n'+loc);
 
     let fb_href = 'http://www.facebook.com/sharer.php?u='+loc_encoded;
     let ws_href = 'whatsapp://send?text=' + whatsapp;
