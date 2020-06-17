@@ -21,7 +21,7 @@ const entrevistas = [
             },
             {
                 "pregunta": "Llegaste al lugar... cuéntanos tu primer día",
-                "respuesta": "El 1er día fue raro todos sentíamos miedo pero todos teníamos ganas de empezar a ayudar."
+                "respuesta": "El 1er día fue raro, todos sentíamos miedo pero teníamos ganas de empezar a ayudar."
             },
             {
                 "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
@@ -87,7 +87,7 @@ const entrevistas = [
             },
             {
                 "pregunta": "Llegaste al lugar... cuéntanos tu primer día",
-                "respuesta": "El primer día fue el más difícil ya que me estaba enfrentando a cosas nuevas y tenía que adaptarme. Nos asignaron las salas y los puestos que ocuparíamos y nos explicaron las tareas que nos tocaba desempeñar. A mi me tocó ser la pantrista de la sala Manuel Valle junto con 3 estudiantes más de la CUJAE que serían asistentes de limpieza (2) y asistente de enfermería (1). Ese día fue el más largo, terminé a las 8:30pm después de servir todas las comidas y fregar las bandejas y los termos. Y luego el regreso a la residencia para descansar después de un largo día de trabajo."
+                "respuesta": "El primer día fue el más difícil ya que me estaba enfrentando a cosas nuevas y tenía que adaptarme. Nos asignaron las salas y los puestos que ocuparíamos y nos explicaron las tareas que nos tocaba desempeñar. A mi me tocó ser la pantrista de la sala Manuel Valle junto con 3 estudiantes más de la CUJAE que serían asistentes de limpieza (2) y asistente de enfermería (1). Ese día fue el más largo, terminé a las 8:30pm después de servir todas las comidas, fregar las bandejas y los termos. Y luego el regreso a la residencia para descansar después de un largo día de trabajo."
             },
             {
                 "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
@@ -99,7 +99,7 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
-                "respuesta": "Entre voluntarios nos ayudábamos mucho. Por ejemplo, yo era la pantrista y tenía que estar hasta las 8 p.m. que terminaba de repartir la última merienda del día y fregar todo; en ese caso me ayudaban los asistentes de limpieza(que terminaban más temprano) para no terminar tan tarde. Yo los ayudaba también, mientras esperaba la llegada de las comidas, a limpiar los pasillos laterales de la sala. Éramos un gran equipo de trabajo."
+                "respuesta": "Entre voluntarios nos ayudábamos mucho. Por ejemplo, yo era la pantrista y tenía que estar hasta las 8 p.m. que terminaba de repartir la última merienda del día y fregar todo; en ese caso me ayudaban los asistentes de limpieza (que terminaban más temprano) para no terminar tan tarde. Yo los ayudaba también, mientras esperaba la llegada de las comidas, a limpiar los pasillos laterales de la sala. Éramos un gran equipo de trabajo."
             },
             {
                 "pregunta": "¿Cuál era tu último pensamiento cada noche?",
@@ -107,7 +107,7 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Guardas alguna anécdota que marcará tu paso como voluntario?",
-                "respuesta": "Sin duda alguna lo que más me marcó en mi paso como voluntaria fue la llegada, al 3er día, de Juan, un anciano que padecía de demencia. Lo llamábamos \"el abuelo\" y debido a su enfermedad entraba y salía varias veces del cuarto(buscando su cuarto) o caminaba por toda la sala diciendo que ya él se iba para su casa porque ya el médico le había hecho todas las\npruebas y él no tenía nada. Solo estuvo 4 días, que nos bastaron para quererlo y cuidarlo como si fuera nuestro propio abuelo ayudándolo siempre en lo que necesitara. Luego de que dio negativo a la prueba de PCR nos pusimos alegres y muy tristes a la vez porque ya era su hora de marcharse con su familia y lo íbamos a extrañar mucho. "
+                "respuesta": "Sin duda alguna lo que más me marcó en mi paso como voluntaria fue la llegada, al 3er día, de Juan, un anciano que padecía de demencia. Lo llamábamos \"el abuelo\" y debido a su enfermedad entraba y salía varias veces del cuarto (buscando su cuarto) o caminaba por toda la sala diciendo que ya él se iba para su casa porque ya el médico le había hecho todas las pruebas y él no tenía nada.\nSolo estuvo 4 días, que nos bastaron para quererlo y cuidarlo como si fuera nuestro propio abuelo ayudándolo siempre en lo que necesitara. Luego de que dio negativo a la prueba de PCR nos pusimos alegres y muy tristes a la vez porque ya era su hora de marcharse con su familia y lo íbamos a extrañar mucho. "
             },
             {
                 "pregunta": "¿Volverías a incorporarte?",
@@ -145,7 +145,7 @@ const entrevistas = [
             },
             {
             "pregunta": "¿Qué sucedió luego de confirmarte que ibas al Hospital?",
-            "respuesta": "Luego de saber que íbamos para allá nada...recoger las cosas y prepararme psicológicamente para ir para un lugar lleno de personas que podían estar infectadas, dónde había que cuidarse al máximo...y lo más duro antes de entrar fue el PCR, esperar ese resultado es una tensión tan fuerte que no se explicar...y si después de alistarme estoy contagiada y no puedo ayudar? Pero todo salió bien"
+            "respuesta": "Luego de saber que íbamos para allá nada... recoger las cosas y prepararme psicológicamente para ir para un lugar lleno de personas que podían estar infectadas, dónde había que cuidarse al máximo... y lo más duro antes de entrar fue el PCR, esperar ese resultado es una tensión tan fuerte que no se explicar... y si después de alistarme estoy contagiada y no puedo ayudar? Pero todo salió bien"
             },
             {
             "pregunta": "¿Qué dijeron tus padres?",
@@ -153,7 +153,7 @@ const entrevistas = [
             },
             {
             "pregunta": "Llegaste al lugar... cuéntanos tu primer día",
-            "respuesta": "El primer día...fue bueno, nos ubicamos en cuartos y salas y nos dijeron lo que íbamos a hacer...me tocaba ser asistente de enfermería, yo, que de enfermería no tenía ni idea...según me 3xplicaron tenía que ayudar a alimentar y bañarse a pacientes inmovilizados, ayudar a repartir medicamento, sacar la ropa de la sala, y ayudar con el típico papeleo de una sala médica...ese día solo había 3 pacientes, lo duró llegó después."
+            "respuesta": "El primer día... fue bueno, nos ubicamos en cuartos y salas y nos dijeron lo que íbamos a hacer... me tocaba ser asistente de enfermería, yo, que de enfermería no tenía ni idea... según me ex plicaron tenía que ayudar a alimentar y bañarse a pacientes inmovilizados, ayudar a repartir medicamento, sacar la ropa de la sala, y ayudar con el típico papeleo de una sala médica... ese día solo había 3 pacientes, lo duró llegó después."
             },
             {
             "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
@@ -161,11 +161,11 @@ const entrevistas = [
             },
             {
             "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
-            "respuesta": "Nosotros nos convertimos en familia. La ayuda venía desde el café de por la mañana que compartíamos a buchitos, el calentador que era solo uno para casi 20 personas y también lo compartíamos, hasta compartir las tareas en las salas para terminar temprano. En el aislamiento celebramos cumpleaños, secamos lágrimas, calmamos tensiones...ninguno de nosotros estuvo solo nunca"
+            "respuesta": "Nosotros nos convertimos en familia. La ayuda venía desde el café de por la mañana que compartíamos a buchitos, el calentador que era solo uno para casi 20 personas y también lo compartíamos, hasta compartir las tareas en las salas para terminar temprano. En el aislamiento celebramos cumpleaños, secamos lágrimas, calmamos tensiones... ninguno de nosotros estuvo solo nunca"
             },
             {
             "pregunta": "¿Qué fué lo más difícil que tuviste que enfrentar?",
-            "respuesta": "Lo más difícil que enfrenté fue el trato con pacientes inmovilizados...yo no le había dado la comida ni a un bebé, y estaba allí alimentando a señoras que a penas se movían, que cada vez que pasaba por al lado de su cuarto entraba para ver si aún respiraban, y me aterraba que les pudiera pasar algo."
+            "respuesta": "Lo más difícil que enfrenté fue el trato con pacientes inmovilizados... yo no le había dado la comida ni a un bebé, y estaba allí alimentando a señoras que a penas se movían, que cada vez que pasaba por al lado de su cuarto entraba para ver si aún respiraban, y me aterraba que les pudiera pasar algo."
             },
             {
             "pregunta": "¿Cuál era tu último pensamiento cada noche?",
@@ -173,7 +173,7 @@ const entrevistas = [
             },
             {
             "pregunta": "¿Guardas alguna anécdota que marcará tu paso como voluntario?",
-            "respuesta": "Una anécdota...pues tuvimos un paciente esquizofrénico y con retraso mental severo, que se pasaba el día entero tratando de fugarse, se daba golpes, etc...ese señor a mí me da daba un miedo que no puedo explicar, y tuve que darle la comida como dos días hasta que le dieron de alta...lo tenían amarrado a la cama para que no se fugara más...y yo rezaba cada minuto para que él terminara de comer rápido y poder salir de su cuarto porque me sentía remal."
+            "respuesta": "Una anécdota... pues tuvimos un paciente esquizofrénico y con retraso mental severo, que se pasaba el día entero tratando de fugarse, se daba golpes, etc... ese señor a mí me da daba un miedo que no puedo explicar, y tuve que darle la comida como dos días hasta que le dieron de alta... lo tenían amarrado a la cama para que no se fugara más... y yo rezaba cada minuto para que él terminara de comer rápido y poder salir de su cuarto porque me sentía remal."
             },
             {
             "pregunta": "¿Volverías a incorporarte?",
@@ -189,7 +189,7 @@ const entrevistas = [
             },
             {
             "pregunta":  "¿Desde tu especialidad como crees que puedes aportar al buen funcionamiento del hospital?",
-            "respuesta": "Lo primero que haría falta sería al menos (si se pudieran más, pues mejor) una PC por sala, y algún lugar ya sea en la dirección del hospital o en algún otro sitio que destinen para eso una oficina para que sirva de centro de datos y tenga los servidores, trabajen los administradores del sistema...es decir, un nodo Central.\n"+
+            "respuesta": "Lo primero que haría falta sería al menos (si se pudieran más, pues mejor) una PC por sala, y algún lugar ya sea en la dirección del hospital o en algún otro sitio que destinen para eso una oficina para que sirva de centro de datos y tenga los servidores, trabajen los administradores del sistema... es decir, un nodo Central.\n"+
             "Procesos a automatizar:\n"+
             "• Recepción de los pacientes (en el hospital y luego en las salas), esto luego de que los pacientes estén de alta debe persistir para tener un histórico de todas las personas que ingresaron alguna vez allí para cualquier estudio que se haga o si hace falta localizar a alguien... eso siempre es necesario\n• Evoluciones médicas y de enfermería (son actualizaciones del estado del paciente que se hacen cada 12 horas por médicos y enfermeros de manera independiente)... si se crea un perfil por cada paciente que ingresa está información se puede escribir ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones de cada día\n"+
             "• Evoluciones médicas y de enfermería (son actualizaciones del estado del paciente que se hacen cada 12 horas por médicos y enfermeros de manera independiente)... si se crea un perfil por cada paciente que ingresa está información se puede escribir ahí y al momento de dar el alta se imprime una ficha completa con las evoluciones de cada día\n"+
@@ -214,7 +214,7 @@ const entrevistas = [
         "respuestas": [
             {
                 "pregunta": "¿Por qué te incorporaste como voluntario?",
-                "respuesta": "Cada generación ha tenido su momento donde le toca dar el paso al frente, este fue el que me tocó a mí. Me incorporé porque si en mis manos está ayudar a sobrellevar esta situación entonces hay que hacerlo; me incorporé porque si mis familiares y amigos fueran los que estuvieran en los lugares de esos pacientes me encantaría que tuvieran jóvenes como nosotros atendiéndolos y ayudándolos en lo que necesiten; me incorporé porque era lo que tocaba y no me arrepiento de mi decisión. "
+                "respuesta": "Cada generación ha tenido su momento donde le toca dar el paso al frente, este fue el que me tocó a mí. Me incorporé porque si en mis manos está ayudar a sobrellevar esta situación entonces tengo que hacerlo; me incorporé porque si mis familiares y amigos fueran los que estuvieran en los lugares de esos pacientes me encantaría que tuvieran jóvenes como nosotros atendiéndolos y ayudándolos en lo que necesiten; me incorporé porque era lo que tocaba y no me arrepiento de mi decisión. "
             },
             {
                 "pregunta": "¿Qué dijeron tus padres?",
@@ -226,7 +226,7 @@ const entrevistas = [
             },
             {
                 "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
-                "respuesta": "Los voluntarios entramos como totales desconocidos, recuerdo las caras de muchos el primer día, no hablábamos y mirábamos todo con asombro. Los primeros días siempre son los más difíciles porque la adaptación a un entorno nuevo y totalmente desconocido no siempre es igual para todos, pero luego que se acababa el día de trabajo que llegábamos a la residencia era diferente llegamos a depender los unos de los otros, gracias a los chiste y los cuentos, los días más cargados de trabajo y de emociones se convirtieron en los mejores.\nEl trabajo en la sala era fuerte dependiendo del trabajo que te tocara, en mi caso, por suerte, la ayuda entre nosotros no era necesaria pedirla, a mí me tocaba limpiar y en cuanto terminaba con esta labor ayudaba a la pantrista, la cual mientras no tenía que servir comida o fregar nos ayudaba a nosotros. Fue muy sencillo trabajar como un equipo porque en eso fue lo que nos convertimos en 14 días en una súper tropa que no importaba el trabajo que nos tocara éramos uno y se hacía el trabajo  que fuese necesario hacer.\n"
+                "respuesta": "Los voluntarios entramos como totales desconocidos, recuerdo las caras de muchos el primer día, no hablábamos y mirábamos todo con asombro. Los primeros días siempre son los más difíciles porque la adaptación a un entorno nuevo y totalmente desconocido no siempre es igual para todos, pero luego que se acababa el día de trabajo que llegábamos a la residencia era diferente llegamos a depender los unos de los otros, gracias a los chistes y los cuentos, los días más cargados de trabajo y de emociones se convirtieron en los mejores.\nEl trabajo en la sala era fuerte dependiendo del trabajo que te tocara, en mi caso, por suerte, la ayuda entre nosotros no era necesaria pedirla, a mí me tocaba limpiar y en cuanto terminaba con esta labor ayudaba a la pantrista, la cual mientras no tenía que servir comida o fregar nos ayudaba a nosotros. Fue muy sencillo trabajar como un equipo porque en eso fue lo que nos convertimos en 14 días en una súper tropa que no importaba el trabajo que nos tocara éramos uno y se hacía el trabajo  que fuese necesario hacer.\n"
             },
             {
                 "pregunta": "¿Volverías a incorporarte?",
