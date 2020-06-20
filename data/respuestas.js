@@ -1,6 +1,6 @@
 const entrevistas = [
     {
-        "id": 1,
+        "id": 2,
         "pic": "miguel.jpg",
         "nombre": "Miguel Enrique de Armas Linares",
         "anyo": "5to año",
@@ -66,7 +66,7 @@ const entrevistas = [
         ]
     },
     {
-        "id": 2,
+        "id": 1,
         "pic": "jimaguas.jpeg",
         "nombre": "Hansel y Harold Megret Reyes",
         "anyo": "2do año",
