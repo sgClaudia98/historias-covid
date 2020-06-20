@@ -47,7 +47,6 @@ function terminar(){
     }
 
     console.log(respuesta);
-    console.log(JSON.stringify(respuesta));
 
     let href = 'whatsapp://send?text=' + encodeURIComponent(JSON.stringify(respuesta));
     window.open(href);

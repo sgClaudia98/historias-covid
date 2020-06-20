@@ -1,6 +1,6 @@
 const entrevistas = [
     {
-        "id": 2,
+        "id": 1,
         "pic": "miguel.jpg",
         "nombre": "Miguel Enrique de Armas Linares",
         "anyo": "5to año",
@@ -62,6 +62,72 @@ const entrevistas = [
             {
                 "pregunta": "¿Qué piensas hacer ahora que ya cumpliste la misión y el aislamiento?",
                 "respuesta": "En mi caso particular, terminar el informe de tesis y ayudar en mi casa en lo que haga falta."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "pic": "jimaguas.jpeg",
+        "nombre": "Hansel y Harold Megret Reyes",
+        "anyo": "2do año",
+        "facultad": "Ing. Informática",
+        "centro": "Hospital Salvador Allende",
+        "respuestas": [
+            {
+                "pregunta": "¿Por qué te incorporaste como voluntario?",
+                "respuesta": "Pues me incorporé porque se necesitaba y debido a la situación en que se encontraba el hospital pensé que era la forma más adecuada para apoyar."
+            },
+            {
+                "pregunta": "¿Qué sucedió luego de confirmarte que ibas al Hospital?",
+                "respuesta": "Bueno pues nada supongo me sentí un poco alarmado, pero bueno lo que pensé sinceramente fue, como sería el trabajo de nuestros médicos frente a esta pandemia qué ha tenido al mundo en jaque."
+            },
+            {
+                "pregunta": "¿Qué dijeron tus padres?",
+                "respuesta": "Mis padres me apoyaron para la decisión que iba a tomar, fue un poco difícil para ellos, preocupados por lo que nos podían pasar, simplemente reincidieron en que tomáramos todas las medidas indicadas para evitar el contagio."
+            },
+            {
+                "pregunta": "Llegaste al lugar... cuéntanos tu primer día",
+                "respuesta": "El primer día conocí el hospital, sinceramente nunca había estado allí solo lo conocía por nombre. Nos recibió un miembro del comité provincial de la UJC y la directora provincial de educación primaria, quienes se iban a encargar de nuestras inquietudes y de hacer cumplir todo lo indicado con respecto a la nuestra protección y cuidado durante la estancia en el centro, nos asignaron un cuarto en la residencia estudiantil con condiciones (pijama, toallas, sábanas, etc.) nos explicaron sobre del área de trabajo, vestuario a emplear y las medidas de protección que había que tomar, por cierto nuestra área de apoyo fue la sala \"Mario Muñoz\"."
+            },
+            {
+                "pregunta": "¿Sentiste miedo? ¿Pensaste en rendirte en algún momento?",
+                "respuesta": "Un poco nervioso por ser el primer día, pero nunca pensé en rendirme la verdad, mi pensamiento fue en salir de aquella misión sin problemas, solo pensar en que todo saldría bien."
+            },
+            {
+                "pregunta": "¿Qué fué lo más difícil que tuviste que enfrentar?",
+                "respuesta": "Lo más difícil que tuve que enfrentar fue la etapa de adaptación, el cansancio a veces y lidiar con algunos pacientes psiquiátricos."
+            },
+            {
+                "pregunta": "¿Cómo se apoyaban entre los voluntarios?",
+                "respuesta": "Entre nosotros los voluntarios existía un gran apoyo, nos cuidábamos unos a otros cada día se consultaba quien faltaba por ropa de protección al igual que los medios y apoyado a eso muchas otras acciones que demostraban la preocupación de cada uno en general."
+            },
+            {
+                "pregunta": "¿Cuál era tu último pensamiento cada noche?",
+                "respuesta": "El último pensamiento de cada día siempre fue \"protegerse es la prioridad aquí\"."
+            },
+            {
+                "pregunta": "¿Guardas alguna anécdota que marcará tu paso como voluntario?",
+                "respuesta": "Algo que les digo es que los pacientes se sentían agradecidos por lo que hacíamos por ellos... personas mayores que sabían lo que era ese sacrificio nos alentaban más todavía, se preocupaban por nosotros, incluso una paciente le preguntaba a las enfermeras de la sala cómo estábamos, fue algo impresionante, lo de los pacientes psiquiátricos era otra historia, pero lo bueno era que hacían caso . Llegamos al punto de que los pacientes ya no nos veían como gente con ropa verde y unas caretas, ya éramos alguien para ellos."
+            },
+            {
+                "pregunta": "¿Volverías a incorporarte?",
+                "respuesta": "Sí, me incorporara y de ser posible con el mismo grupo con que pasé esas jornadas, para lo que hiciera falta."
+            },
+            {
+                "pregunta": "¿Que dirías a tus familiares y amigos sobre tu misión?",
+                "respuesta": "Pues les diría que fue una gran experiencia, y lo bien que se siente apoyar a alguien cuando lo necesita fue algo que nunca olvidaremos."
+            },
+            {
+                "pregunta": "Resume con una palabra esos 14 días",
+                "respuesta": "Humanidad"
+            },
+            {
+                "pregunta": "¿Desde tu especialidad como crees que puedes aportar al buen funcionamiento del hospital?",
+                "respuesta": "Con respecto a la informatización del hospital pienso que sería imprescindible la creación de softwares encaminados a la gestión de cada una de las salas del hospital, teniendo en cuenta por cada una los pacientes con su sintomatología, la atención que debería recibir cada uno, todo registrado en una computadora por sala, además de la integración de wifi y portales web del propio hospital."
+            },
+            {
+                "pregunta": "¿Qué piensas hacer ahora que ya cumpliste la misión y el aislamiento?",
+                "respuesta": "Bueno lo que haría sería transmitir mis experiencias y emociones luego de esta misión que sin duda te hace sentir como una gran persona, ayudar a mi familia en la casa y aprovechar el tiempo."
             }
         ]
     },
