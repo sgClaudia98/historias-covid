@@ -9,7 +9,8 @@ $(document).ready(function () {
         '      <p class="card-subtitle">'+value.centro+'</p>'+
         '      <p class="card-text">'+value.facultad+'</p>'+
         '   </div>'+
-        '   <a href="historia.html?id='+value.id+'" class="btn btn-info w-100 exp">Mi Historia</a>'+
+            (value.respuestas.length > 0 ?
+            '<a href="historia.html?id=' + value.id + '" class="btn btn-info w-100 exp">Mi Historia</a>' : '')+
         '</div>'
         );
     });
