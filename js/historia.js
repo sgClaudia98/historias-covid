@@ -26,8 +26,9 @@ $(document).ready(function () {
     }
 
     $('#nombre-bread').html(entrevista.nombre);
-    let pic = entrevista.pic;
-    $('#pic').attr("src","img/"+pic);
+    if (entrevista.pic){
+        $('#pic-cont').append('<img src="img/'+ entrevista.pic +'" class="rounded pic" id="pic" alt="pic">')
+    }
     $('#nombre').html(entrevista.nombre);
     $('#centro').html(entrevista.centro);
     $('#anyo').html(entrevista.anyo);
