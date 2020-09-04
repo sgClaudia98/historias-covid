@@ -2,8 +2,8 @@ $(document).ready(function () {
     let contenedor = $('#contenedor').html("");
     $.each(entrevistas, function (index, value) {
         let html =  '<div class="card">';
-        if (value.pic){
-            html += '   <img src="img/'+value.pic+'" class="card-img-top" alt="pic">';
+        if (value.pic !==null){
+            html += '   <img src="img/'+value.pic+'" class="card-img-top" alt="">';
         }
         html += '   <div class="card-body">'+
                '      <h5 class="card-title">'+value.nombre+'</h5>'+
