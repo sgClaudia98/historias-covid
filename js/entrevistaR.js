@@ -18,7 +18,7 @@ $(document).ready(function () {
 
     let preg_resp = $('#pr-container').html('');
 
-    $.each(preguntas, function (index, value) {
+    $.each(preguntasRepitentes, function (index, value) {
         preg_resp.append(
         '<div class="form-group col-md-6 pr-data">'+
         '     <label for="pr-'+index+'" class="font-weight-bold">'+

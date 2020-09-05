@@ -31,4 +31,11 @@ let preguntas = [
                 "¿Qué piensas hacer ahora que ya cumpliste la misión y el aislamiento?",
               ];
 
-
+let preguntasRepitentes = [
+    "¿Cómo fue que llegaste a esta nueva misión?",
+    "¿Qué fué lo más difícil que tuviste que enfrentar?",
+    "¿Guardas alguna anécdota que marcará tu paso como voluntario?",
+    "¿Qué diferencia hubo con respecto a la vez anterior?",
+    "¿Volverías a incorporarte?",
+    "Resume con una palabra esos 14 días",
+];
