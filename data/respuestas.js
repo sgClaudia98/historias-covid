@@ -381,7 +381,7 @@ const entrevistas = [
     {
         "id":14,
         "pic":null,
-        "nombre":"Daniel martinez Morejon",
+        "nombre":"Daniel Martínez Morejón",
         "anyo":"1er año",
         "facultad":"Ing. Informática",
         "centro":"Pediátrico de San Miguel del Padrón",
