@@ -3,3 +3,11 @@
 .bmpui-ui-titlebar {
   display: "hidden";
 }
+
+.bmpui-ui-playbacktogglebutton {
+    background-color: green;
+  }
+  
+  .bmpui-ui-hugeplaybacktogglebutton {
+    background-color: green;
+  }
