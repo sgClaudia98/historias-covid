@@ -5,3 +5,8 @@
 .bmpui-ui-hugeplaybacktogglebutton {
   background-color: green;
 }
+.bmpui-ui-titlebar-title,
+.bmpui-ui-titlebar-description,
+.bmpui-ui-titlebar {
+  display: "hidden";
+}
