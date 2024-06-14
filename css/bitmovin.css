@@ -1,5 +1,4 @@
-.bmpui-ui-titlebar-title,
-.bmpui-ui-titlebar-description {
+.bmpui-ui-titlebar-title {
     display: none;
 }
 
@@ -155,8 +154,8 @@ html.tablet .bmpui-ui-popupbutton {
 }
 
 .bmpui-ui-settings-panel {
-    bottom: 72px;
-    z-index: 3;
+    top: 0;
+    z-index: 3000;
     min-width: 225px;
     background: rgba(0, 0, 0, .85)
 }
@@ -1301,10 +1300,6 @@ html.tablet .bmpui-layout-max-width-400 .bmpui-ui-recommendation-overlay .bmpui-
 
 .bmpui-layout-max-width-400 .bmpui-label:nth-child(3) {
     display: none
-}
-
-.bmpui-layout-max-width-400 .bmpui-title {
-    bottom: 6px
 }
 
 .bmpui-layout-max-width-400 .bmpui-ui-airplaytogglebutton,
