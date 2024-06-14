@@ -1,4 +1,6 @@
-.bmpui-title {
+.bmpui-ui-titlebar,
+.bmpui-ui-titlebar-title,
+.bmpui-ui-titlebar-description {
     display: none;
 }
 
