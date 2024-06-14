@@ -1,3 +1,7 @@
+.bmpui-title {
+    display: none;
+}
+
 .bmpui-ui-hugeplaybacktogglebutton {
     cursor: pointer;
     padding: 0
