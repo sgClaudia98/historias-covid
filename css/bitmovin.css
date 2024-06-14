@@ -1,3 +1,6 @@
+.bmpui-ui-casttogglebutton {
+    display: hidden;
+}
 
 .bmpui-ui-hugeplaybacktogglebutton {
     cursor: pointer;
@@ -151,8 +154,8 @@ html.tablet .bmpui-ui-popupbutton {
 }
 
 .bmpui-ui-settings-panel {
-    top: 0;
-    z-index: 3000;
+    top: 72px;
+    z-index: 3;
     min-width: 225px;
     background: rgba(0, 0, 0, .85)
 }
